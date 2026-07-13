@@ -48,11 +48,13 @@ missed interest. This project treats fraud detection as a
 
 ## Key Results
 
+
 | Model | ROC-AUC | CV Mean AUC | CV Std |
 |-------|---------|-------------|--------|
-| Decision Tree | — | — | — |
-| Random Forest | — | — | — |
-| **XGBoost** | **—** | **—** | **—** |
+| Decision Tree | 0.9005 | 0.9209 | 0.0222 |
+| Random Forest | 0.9810 | 0.9814 | 0.0026 |
+| **XGBoost** | **0.9757** | **0.9747** | **0.0052** |
+
 
 > Fill in your actual numbers after running the notebook.
 
