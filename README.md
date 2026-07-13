@@ -94,5 +94,5 @@ pip install -r requirements.txt
 ---
 
 ## LinkedIn Posts
-- [Mid-build post — EDA & Cleaning](YOUR_LINKEDIN_POST_URL)
-- [Completion post — Full Results](YOUR_LINKEDIN_POST_URL)
+- [Mid-build post — EDA & Cleaning](https://www.linkedin.com/posts/prajwal-kapnoor-50042730a_datascience-machinelearning-fintech-ugcPost-7479943391854788608-5ivi/)
+- [Completion post — Full Results]()
