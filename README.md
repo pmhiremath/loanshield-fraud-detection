@@ -61,15 +61,6 @@ missed interest. This project treats fraud detection as a
 **Business impact:** Threshold optimisation at `t=X.XX` reduced 
 projected lending losses by $X,XXX vs the default 0.50 cutoff.
 
----
-
-## Dashboard Previews
-
-**Act 1 — Fraud Landscape**
-![Fraud Landscape](outputs/figures/act1_fraud_landscape.png)
-
-**Act 3 — Business Verdict**
-![Business Verdict](outputs/figures/act3_business_verdict.png)
 
 ---
 
